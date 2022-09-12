@@ -39,3 +39,7 @@ compra, endereço e status da entrega
 - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 - Entrega – Possui status e código de rastreio;
+
+### Resolução do desafio:
+![E_commerce](https://user-images.githubusercontent.com/66090235/189775490-a538ed74-39d2-43a1-929f-9903253a8e81.png)
+
