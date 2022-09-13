@@ -17,5 +17,5 @@ Narrativa:
 - Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS. 
 - Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS.
 
-
-
+### Resolução:
+![OS](https://user-images.githubusercontent.com/66090235/189926294-618fc7fc-7aa1-4bdb-bd70-2c5e8bba02ac.png)
