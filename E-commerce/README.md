@@ -69,3 +69,10 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 - Algum vendedor também é fornecedor?
 - Relação de produtos fornecedores e estoques;
 - Relação de nomes dos fornecedores e nomes dos produtos;
+
+
+### Resolução do desafio:
+### Resolução:
+- Criando o BD a partir do Esquema Lógico: [E-commerce](https://github.com/Pmms89/Database-Experience-Dio/blob/main/E-commerce/e_commerce_DatabaseCreation.sql)
+- Persistindo dados no BD: [Persistência dos dados](https://github.com/Pmms89/Database-Experience-Dio/blob/main/E-commerce/e_commerce_insertingData_.sql)
+- Criando SQL queries: [SQL queries](https://github.com/Pmms89/Database-Experience-Dio/blob/main/E-commerce/e_commerce_SQL_queries.sql)
