@@ -1,6 +1,6 @@
 # DESAFIOS 1 e 3 - E-COMMERCE:
 
-## DESAFIO 1 - Projeto Conceitual de Banco de Dados – E-COMMERCE:
+## DESAFIO 1 - Projeto Conceitual de Banco de Dados – E-COMMERCE
 
 ### Descrição do Desafio: 
 
@@ -39,7 +39,9 @@ compra, endereço e status da entrega
 ![E_commerce](https://user-images.githubusercontent.com/66090235/189775490-a538ed74-39d2-43a1-929f-9903253a8e81.png)
 
 
-## DESAFIO 3 -  Descrição do Desafio :
+## DESAFIO 3 -  Construindo um Projeto Lógico de Banco de Dados
+
+### Descrição do Desafio:
 
 Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado. Perceba que dentro desta modelagem haverá relacionamentos presentes no modelo EER. Sendo assim, consulte como proceder para estes casos. Além disso, aplique o mapeamento de modelos aos refinamentos propostos no módulo de modelagem conceitual.
 
