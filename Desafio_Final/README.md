@@ -25,7 +25,7 @@ A sigla refere-se a *Not Only SQL*, ou seja, não se utiliza o SQL como linguage
 NoSQL permite alto armazenamento com velocidade e grande disponibilidade, e não precisa de certas regras e estruturas que baseiam os modelos relacionais.
 
 Alguns tipos de bancos de dados NoSQL, são:
-- Chave-Valor --> Dynamo
+- Chave-Valor --> Dynamo;
 - Documento --> MongoDB;
 - Colunas --> Cassandra;
 - Grafos --> Neo4j;
