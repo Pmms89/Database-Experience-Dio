@@ -45,3 +45,9 @@ Após a criação do esquema lógico, realize a criação do Script SQL para cri
 - Os tópicos supracitados devem estar presentes nas queries;
 - Elabore perguntas que podem ser respondidas pelas consultas;
 - As cláusulas podem estar presentes em mais de uma query;
+
+
+### Resolução:
+- Criando o BD a partir do Esquema Lógico: [Oficina](https://github.com/Pmms89/Database-Experience-Dio/blob/main/Oficina/Oficina.sql)
+- Persistindo dados no BD: [Persistência dos dados](https://github.com/Pmms89/Database-Experience-Dio/blob/main/Oficina/Oficina_insertingData.sql)
+- Criando SQL queries: [SQL queries](https://github.com/Pmms89/Database-Experience-Dio/blob/main/Oficina/Oficina_sql_queries.sql)
