@@ -42,11 +42,13 @@ Alguns tipos de bancos de dados NoSQL, são:
 | Não suportando uma demanda muito grande de informações | Permite que seja possível fazer com que um enorme fluxo de solicitações aos dados seja atendido com a vantagem do sistema ficar indisponível o menor tempo possível |
 
 
-Referencias:
 
-[Devmedia](https://www.devmedia.com.br/banco-de-dados-nosql-um-novo-paradigma-revista-sql-magazine-102/25918)
 
-[FreeCodeCamp](https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/)
+##### Referencias:
 
-[TreinaWeb_](https://www.treinaweb.com.br/blog/sql-vs-nosql-qual-usar)
+1. [Devmedia](https://www.devmedia.com.br/banco-de-dados-nosql-um-novo-paradigma-revista-sql-magazine-102/25918)
+
+2. [FreeCodeCamp](https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/)
+
+3. [TreinaWeb_](https://www.treinaweb.com.br/blog/sql-vs-nosql-qual-usar)
 
